@@ -47,4 +47,3 @@ I am an Electrical Engineer and Full Stack Developer <img src="https://media.gip
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M4E5TR0-MUN1R&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4E5TR0-MUN1R)](https://github.com/anuraghazra/github-readme-stats)
