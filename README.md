@@ -1,6 +1,11 @@
--  👋 Hi, I’m @M4E5TR0-MUN1R
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+- 👋 Hi, I’m @M4E5TR0-MUN1R
 - 👀 Electrical and Electronics Engineer && Fullstack Developer && Embedded Systems Engineer
-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+- 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="bash" width="45" height="45"/>
