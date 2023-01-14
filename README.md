@@ -4,6 +4,9 @@
 
 - 👋 Hi, I’m @M4E5TR0-MUN1R
 - 👀 Electrical and Electronics Engineer && Fullstack Developer && Embedded Systems Engineer
+<a href="www.linkedin.com/in/khamis-muniru-mwalwati">
+  <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg"/>
+</a>
 - 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
