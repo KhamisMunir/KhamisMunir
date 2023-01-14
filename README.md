@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @M4E5TR0-MUN1R
+-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+-  👋 Hi, I’m @M4E5TR0-MUN1R
 - 👀 Electrical and Electronics Engineer && Computer Programmer && Game Developer
 - 📫 How to reach me -> projectskhamismuniru@gmail.com <-
 <!---
