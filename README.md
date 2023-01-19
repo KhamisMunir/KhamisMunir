@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 I am an Electrical Engineer and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as an Embedded Software Engineer and contributing to frontend and backend for building web HMI's.
+- :telescope: I’m working as an Embedded Software Engineer and contributing to frontend and backend for building HMI's.
 
 - :seedling: Exploring Machine Learning.
 
