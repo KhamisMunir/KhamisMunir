@@ -12,17 +12,17 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=M4E5TR0-MUN1R&style=flat-square&color=blue" />
   <h1>
-  Hey there!
+  Hey there! Welcome to My GitHub Profile.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ### :man_technologist: About Me :
-I am an Electrical Engineer and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I'm an Electrical Engineer with a passion for crafting innovative hardware solutions and diving deep into the world of technology. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as an Embedded Software Engineer and contributing to frontend and backend for building HMI's.
+- :telescope: I thrive on designing and building hardware systems, from microcontrollers to complex embedded systems. I love working with low-level interfaces using C and C++ to make hardware perform its best.
 
-- :seedling: Exploring Machine Learning.
+- :seedling: In addition to my hardware skills, I also delve into the fascinating realm of machine learning. I develop models that can learn and adapt, making electronic devices smarter and more capable.
 
 - :zap: In my free time, I design GUI's and tinker with micro-controllers.
 
