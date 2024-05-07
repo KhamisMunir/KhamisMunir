@@ -8,7 +8,6 @@
   <a href="NULL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  [![wakatime](https://wakatime.com/badge/user/018eae89-320d-4657-a0fd-10051cf5cb87.svg)](https://wakatime.com/@018eae89-320d-4657-a0fd-10051cf5cb87)
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=M4E5TR0-MUN1R&style=flat-square&color=blue" />
@@ -46,5 +45,5 @@ I'm an Electrical Engineer with a passion for crafting innovative hardware solut
 ---
 
 ### :fire: My Stats :
+[![wakatime](https://wakatime.com/badge/user/018eae89-320d-4657-a0fd-10051cf5cb87.svg)](https://wakatime.com/@018eae89-320d-4657-a0fd-10051cf5cb87)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M4E5TR0-MUN1R&theme=dark)](https://git.io/streak-stats)
-
