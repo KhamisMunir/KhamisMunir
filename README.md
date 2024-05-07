@@ -27,7 +27,7 @@ I'm an Electrical Engineer with a passion for crafting innovative hardware solut
 - :zap: In my free time, I design GUI's and tinker with micro-controllers.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MuniruKhamis-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khamis-muniru-mwalwati)
-- :mailbox:How to reach me: [![wakatime](https://wakatime.com/badge/user/018eae89-320d-4657-a0fd-10051cf5cb87.svg)](https://wakatime.com/@018eae89-320d-4657-a0fd-10051cf5cb87)
+- :clock1230:Wakatime: [![wakatime](https://wakatime.com/badge/user/018eae89-320d-4657-a0fd-10051cf5cb87.svg)](https://wakatime.com/@018eae89-320d-4657-a0fd-10051cf5cb87)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
